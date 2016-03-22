@@ -6,6 +6,7 @@ Comparison of available bots
 ---------------------------------------
 There are currently (as of 23 March 2016) three bots available in the various forks of the Space Tyckiting repository: [*Paradroid*](https://github.com/keskival/space-tyckiting) by [keskival](https://github.com/keskival), [*mee_roskiin*](https://github.com/fennekki/space-tyckiting) by [fennekki](https://github.com/fennekki) and *MajorTom*, the bot in this repository.
 Here is how they perform against each other:
+
 Bot 1 | wins | Bot 2
 --- | --- | ---
 *mee_roskiin* | 5:5 | *Paradroid*
